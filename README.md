@@ -5,7 +5,8 @@
 </p>
 
 
-##　 初めに
+## MODIFIED VERSION　 
+初めに
 [Octopus](https://https://github.com/FuzzingLabs/octopus)の修正版です。
 まだまだ、バグ等が多いと思いますが、ある程度使える範囲で修正しました。
 ↓原文そのまま↓
