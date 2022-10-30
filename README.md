@@ -4,6 +4,12 @@
 	<img src="/images/logo-medium.png" height="300px"/>
 </p>
 
+
+##　初めに
+Octopus[https://https://github.com/FuzzingLabs/octopus]の修正版です。
+まだまだ、バグ等が多いと思いますが、ある程度使える範囲で修正しました。
+↓原文そのまま
+
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
